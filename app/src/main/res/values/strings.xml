@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="reinaroja_title">La Reina Roja</string>
+    <string name="la_espada_de_cristal_title">La Espada de Cristal</string>
+    <string name="la_jaula_del_rey_title">La Jaula del Rey</string>
+    <string name="button_ver_name">Ver</string>
+</resources>
