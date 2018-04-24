@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         libros=new ArrayList<>();
         libros.add(new Libro("La Reina Roja", "474", R.drawable.reinaroja, "First book of the saga written by Victoria Aveyard"));
         libros.add(new Libro("La Espada de Cristal", "548", R.drawable.espadacristal, " Second book of the saga written by Victoria Aveyard"));
-        libros.add(new Libro("La Jaula del Rey", "596", R.drawable.jauladelrey, "Third book the saga written by Victoria Aveyard"));
+        libros.add(new Libro("La Jaula del Rey", "596", R.drawable.jauladelrey, "Third book of the saga written by Victoria Aveyard"));
 
     }
 
